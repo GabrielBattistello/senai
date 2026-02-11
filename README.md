@@ -1,0 +1,9 @@
+cd = entrar
+ls = listar
+git init = chama o git
+git branch -M main = tornar-se o main
+git add . = preparar para receber alguma alteração
+git commit = criar uma mensagem
+git status = mostrar informações importantes 
+git push -u origin = leva as alterações do repositório
+code . = abrir o VScode
